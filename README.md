@@ -15,11 +15,11 @@ The On-Chain Resume platform by Calyptus offers a solution for digitizing and se
 
 ### 2. Metadata Compilation for NFT
 
-- The [platform](calyptus.co) aggregates verified skill scores, assessment results, and endorsements to form the metadata attached to the NFT.
+- The [platform](https://www.calyptus.co/) aggregates verified skill scores, assessment results, and endorsements to form the metadata attached to the NFT.
 
 ### 3. NFT Creation
 
-- Once all necessary metadata is compiled, the [platform](calyptus.co) initiates the creation of an NFT that represents the digital resume on the blockchain. This occurs right after completing the onboarding process.
+- Once all necessary metadata is compiled, the [platform](https://www.calyptus.co/) initiates the creation of an NFT that represents the digital resume on the blockchain. This occurs right after completing the onboarding process.
 
 ### 4. Dynamic NFT Metadata Updates
 
